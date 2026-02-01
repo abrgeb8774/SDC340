@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abreham_Gebremariam - Contacts Address Book</string>
+    <string name="category_title">A</string>
+    <string name="alexander_contact">Alexander Francis</string>
+    <string name="adrian_contact">Adrian Gomez</string>
+    <string name="view_details">View Contact Details</string>
+</resources>
