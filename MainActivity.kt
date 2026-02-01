@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.content.Intent
 import android.widget.Button
 
-
 //Abreham Gebremariam
 //01/02/2026
 class MainActivity : AppCompatActivity() {
