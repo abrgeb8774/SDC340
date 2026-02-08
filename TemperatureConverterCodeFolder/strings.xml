@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Abreham Gebremariam - Temperature Conversion</string>
+    <string name="txt_title">Convert Temperature</string>
+    <string name="hint">Temperature Value</string>
+    <string name="rad_fah_to_cel">Convert Fahrenheit (°F) to Celsius (°C)</string>
+    <string name="rad_cel_to_fah">Convert Celsius (°C) to Fahrenheit (°F)</string>
+    <string name="btn_convert">Convert Temperature</string>
+</resources>
