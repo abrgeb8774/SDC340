@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Abreham_Gebremariam - Ticket Hub</string>
+    <string name="txt_title">Concert Ticket Hub</string>
+    <string name="txt_event_types">Types of Events</string>
+    <string name="hint1">Number of Tickets</string>
+    <string name="btn_calculate">Calculate the Cost</string>
+    <string name="img_description">Concert Ticket</string>
+    <string-array name="strarr_events">
+        <item>Pop Music Festival - $49.99 per ticket</item>
+        <item>Jazz Music Festival - $45.99 per ticket</item>
+        <item>Country Music Festival - $42.99 per ticket</item>
+    </string-array>
+</resources>
