@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Photo Gallery</string>
+    <string name="txt_title">Abreham Gebremariam - My Photo Gallery</string>
+    <string name="gallery">Photo Gallery image</string>
+    <string name="faith">faith image</string>
+    <string name="family">family image</string>
+    <string name="friends">friends image</string>
+    <string name="hobbies">hobbies image</string>
+    <string name="office">office image</string>
+    <string name="school">school image</string>
+</resources>
