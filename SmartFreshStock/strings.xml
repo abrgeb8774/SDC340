@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SmartFreshStock</string>
+    <string name="txt_title">Food Expiry and Inventory Tracker</string>
+    <string name="btn_getStarted">Get Started</string>
+    <string name="txt_menu">Menu</string>
+    <string name="rad_addItem">Add Item</string>
+    <string name="rad_itemsConsumed">Items Consumed</string>
+    <string name="rad_viewInventory">View Inventory</string>
+    <string name="rad_setting">Settings</string>
+    <string name="rad_itemExpiry">Items Expiring Soon</string>
+    <string name="rad_outOfStock">Out of Stock</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_recordFood">Record Food Item</string>
+    <string name="txt_itemsConsumed">Items Consumed</string>
+    <string name="hint">Item Name</string>
+    <string name="hint1">Category</string>
+    <string name="hint2">Quantity</string>
+    <string name="hint_quantityUsed">Quantity Used</string>
+    <string name="hint3">Purchase Date</string>
+    <string name="hint4">Expiry Date</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_home">Home</string>
+    <string name="txt_inventory">Inventory List</string>
+    <string name="txt_category">Category</string>
+    <string-array name="strarr_categories">
+        <item>Category</item>
+        <item>Fruits and Vegetables</item>
+        <item>Dairy and Eggs</item>
+        <item>Meat and Seafood</item>
+        <item>Grains and Bakery</item>
+        <item>Pantry Staples</item>
+        <item>Frozen Foods</item>
+        <item>Snacks and Beverages</item>
+    </string-array>
+    <string name="txt_enter">Enter</string>
+    <string name="txt_setting">Setting</string>
+    <string name="txt_expiryAlert">Expiry Alert</string>
+    <string name="txt_notifyMe">Notify me before</string>
+    <string name="hint5">Number of days</string>
+    <string name="txt_notifyTime">Notification Time</string>
+    <string name="txt_days">days</string>
+    <string name="btn_onOff">On/Off</string>
+    <string name="btn_saveSetting">Cancel</string>
+    <string name="txt_itemExpire">Items Expiring Soon</string>
+    <string name="txt_itemName">Item Name</string>
+    <string name="txt_dayLeft">Days Left</string>
+    <string name="txt_outOfStock">Out of Stock</string>
+    <string name="txt_quantLeft">Quantity Left</string>
+</resources>
